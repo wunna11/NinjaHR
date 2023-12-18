@@ -1,0 +1,12 @@
+.active > .page-link {
+  background-color: #6E841F !important;
+}
+
+/* a {
+  text-decoration: none !important;
+  color: #F7F0DE !important;
+} */
+
+.invalid-feedback {
+  margin-top: -10px !important;
+}
